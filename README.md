@@ -7,7 +7,7 @@
 
 ## About the Book
 
-*Succeed In Software* is a comprehensive guide for developers at all levels, aiming to help them accelerate their careers and achieve mastery in software engineering. The book is packed with practical advice, proven principles, and lessons learned over decades in the industry. Whether you're a junior developer aiming to leap ahead or a senior engineer seeking to polish your craft, this book provides the tools to succeed.
+<img src="composite.png" title="composite"/>*Succeed In Software* is a comprehensive guide for developers at all levels, aiming to help them accelerate their careers and achieve mastery in software engineering. The book is packed with practical advice, proven principles, and lessons learned over decades in the industry. Whether you're a junior developer aiming to leap ahead or a senior engineer seeking to polish your craft, this book provides the tools to succeed.
 
 ---
 
